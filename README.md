@@ -20,21 +20,19 @@ Before you begin, ensure you have met the following requirements:
 - [webview_flutter](https://pub.dev/packages/webview_flutter) package added to your pubspec.yaml file.
 
 ## Getting Started
-Clone this repository to your local machine: git clone https://github.com/victor-onoja/slack_github_app.git
-
-Navigate to the project directory: cd slack_github_app
-
-Run the app on an emulator or a physical device: flutter run
-
-This command will build and run the app.
+1. Clone this repository to your local machine: git clone https://github.com/victor-onoja/slack_github_app.git
+2. Navigate to the project directory: cd slack_github_app
+3. Run the app on an emulator or a physical device: flutter run
+4. This command will build and run the app.
 
 ## Assumptions
-You have Flutter and Dart installed and set up on your development machine.
-You have a valid Slack profile picture image file named slack_profile.jpg in the assets folder.
-You have added the webview_flutter package to your pubspec.yaml file.
+- You have Flutter and Dart installed and set up on your development machine.
+- You have a valid Slack profile picture image file named slack_profile.jpg in the assets folder.
+- You have added the webview_flutter package to your pubspec.yaml file.
 
 ## Usage
 The app displays your Slack name and profile picture on the main screen.
+
 Press the "Open GitHub" button to view your GitHub profile within the app.
 
 Appetize Link: https://appetize.io/app/pt5hono5thuo4j7gyfecyrt3b4
